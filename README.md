@@ -1,22 +1,10 @@
 ## 前言
 
-> 白泽：游戏/直播/互联网从业者，后端开发者，曾就职比心直播、莉莉丝游戏、Gitea｜AIGC 玩家。
-
-🌟 仓库介绍：归档我学习工作中经验总结和相关开发教程，主要围绕：Golang 开发/AI工具使用。
-
-🌍 知识星球：[白泽说](https://wx.zsxq.com/group/51111852421224)
-
-![image-20250511170233892](https://baize-blog-images.oss-cn-shanghai.aliyuncs.com/img/image-20250511170233892.png)
-
-添加 wx: baize_talk02 备注【优惠券】，星球分为后端开发板块和AI大模型应用开发板块，欢迎你的加入。
+🌟 仓库介绍：归档学习工作中经验总结和相关开发教程，主要围绕：Golang 开发/AI工具使用。
 
 视频讲解请关注📺B站：[白泽talk](https://space.bilibili.com/10399934?spm_id_from=333.999.0.0)
 
-![image-20240726234405804](https://baize-blog-images.oss-cn-shanghai.aliyuncs.com/img/image-20240726234405804.png)
-
-关注公众号【白泽talk】，公众号会更新我的学习动态以及Go相关的学习文章分享。
-
-学习交流 qq 群：622383022（已满）、446397231
+关注公众号【白泽talk】，公众号会更新学习动态以及Go相关的学习文章分享。
 
 稀土掘金博客地址：https://juejin.cn/user/1434234537126808
 

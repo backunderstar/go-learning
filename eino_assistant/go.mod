@@ -8,6 +8,8 @@ require (
 	github.com/cloudwego/eino-ext/components/document/transformer/splitter/markdown v0.0.0-20250429121045-a2545a66f5cf
 	github.com/cloudwego/eino-ext/components/embedding/ark v0.0.0-20250429121045-a2545a66f5cf
 	github.com/cloudwego/eino-ext/components/indexer/redis v0.0.0-20250429121045-a2545a66f5cf
+	github.com/google/uuid v1.3.0
+	github.com/redis/go-redis/v9 v9.7.0
 )
 
 require (
@@ -20,7 +22,6 @@ require (
 	github.com/getkin/kin-openapi v0.118.0 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
 	github.com/go-openapi/swag v0.19.5 // indirect
-	github.com/google/uuid v1.3.0 // indirect
 	github.com/goph/emperror v0.17.2 // indirect
 	github.com/invopop/yaml v0.1.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
@@ -35,7 +36,6 @@ require (
 	github.com/pelletier/go-toml/v2 v2.0.9 // indirect
 	github.com/perimeterx/marshmallow v1.1.4 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/redis/go-redis/v9 v9.7.0 // indirect
 	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/slongfield/pyfmt v0.0.0-20220222012616-ea85ff4c361f // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
